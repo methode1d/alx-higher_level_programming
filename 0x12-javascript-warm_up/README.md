@@ -1,1 +1,1 @@
-Jvavscript warm up
+JavaScript Warm up
